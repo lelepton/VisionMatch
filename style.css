@@ -63,6 +63,7 @@ form i {
     max-width: 256px;
     max-height: 256px;
     gap: 12px;
+    padding: 16px;
 }
 
 #result img {
